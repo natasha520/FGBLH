@@ -3,7 +3,6 @@
 松视1台,p3p://fccs.ddns.net:19906/5fe445280008a40682a0367c343436bb
 松视2台,p3p://fccs.ddns.net:19906/60232b5f00007bc37850649979e379df
 松视3台,p3p://fccs.ddns.net:19906/6109e9590001f40bfd9b661109395f3b
-松视4台,https://u.kstore.space/download/8504/%E8%8B%B9%E6%9E%9C%E9%A6%992.mp4
 潘朵啦,p3p://fccs.ddns.net:19906/5fe4450c000c918b829fca233c845311
 惊艳台,p3p://fccs.ddns.net:19906/60626a1b00010e3e6f5a5a4f018e5ebe
 LOOK,p3p://fccs.ddns.net:19906/606271190002a1266f75aaee0463186a
