@@ -1,170 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="俄罗斯极限电影" tvg-name="俄罗斯极限电影" tvg-logo="" group-title="🌲松视CR",俄罗斯极限电影
 http://ef90a6cd.rossteleccom.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/14158/index.m3u8
-#EXTINF:-1 tvg-id="极限电影" tvg-name="极限电影" tvg-logo="" group-title="🌲松视CR",极限电影
-p3p://fccs.ddns.net:19906/6109e9bb0005fd87fd9ce5ea2c1f18d3
-#EXTINF:-1 tvg-id="松视1台" tvg-name="松视1台" tvg-logo="" group-title="🌲松视CR",松视1台
-p3p://fccs.ddns.net:19906/5fe445280008a40682a0367c343436bb
-#EXTINF:-1 tvg-id="松视2台" tvg-name="松视2台" tvg-logo="" group-title="🌲松视CR",松视2台
-p3p://fccs.ddns.net:19906/60232b5f00007bc37850649979e379df
-#EXTINF:-1 tvg-id="松视3台" tvg-name="松视3台" tvg-logo="" group-title="🌲松视CR",松视3台
-p3p://fccs.ddns.net:19906/6109e9590001f40bfd9b661109395f3b
-#EXTINF:-1 tvg-id="潘朵啦" tvg-name="潘朵啦" tvg-logo="" group-title="🌲松视CR",潘朵啦
-p3p://fccs.ddns.net:19906/5fe4450c000c918b829fca233c845311
-#EXTINF:-1 tvg-id="惊艳台" tvg-name="惊艳台" tvg-logo="" group-title="🌲松视CR",惊艳台
-p3p://fccs.ddns.net:19906/60626a1b00010e3e6f5a5a4f018e5ebe
-#EXTINF:-1 tvg-id="LOOK" tvg-name="LOOK" tvg-logo="" group-title="🌲松视CR",LOOK
-p3p://fccs.ddns.net:19906/606271190002a1266f75aaee0463186a
-#EXTINF:-1 tvg-id="HAPPY" tvg-name="HAPPY" tvg-logo="" group-title="🌲松视CR",HAPPY
-p3p://fccs.ddns.net:19906/616b79be000a35b17ab2f7b84c325eeb
-#EXTINF:-1 tvg-id="香蕉台" tvg-name="香蕉台" tvg-logo="" group-title="🌲松视CR",香蕉台
-p3p://fccs.ddns.net:19906/60626a760005067e6f5bbecb5816771e
-#EXTINF:-1 tvg-id="彩虹E" tvg-name="彩虹E" tvg-logo="" group-title="🌲松视CR",彩虹E
-p3p://fccs.ddns.net:19906/6062716c0008efc86f76f0c44d55329f
-#EXTINF:-1 tvg-id="彩虹K" tvg-name="彩虹K" tvg-logo="" group-title="🌲松视CR",彩虹K
-p3p://fccs.ddns.net:19906/63fd56ec000b5f0d26d4fe1b07963493
-#EXTINF:-1 tvg-id="彩虹电影" tvg-name="彩虹电影" tvg-logo="" group-title="🌲松视CR",彩虹电影
-p3p://fccs.ddns.net:19906/6253066c00049259f74b05224cf375e6
-#EXTINF:-1 tvg-id="彩虹频道" tvg-name="彩虹频道" tvg-logo="" group-title="🌲松视CR",彩虹频道
-p3p://fccs.ddns.net:19906/63fd589300099ff426db7203798a21f9
-#EXTINF:-1 tvg-id="日本东京热" tvg-name="日本东京热" tvg-logo="" group-title="🌲松视CR",日本东京热
-p3p://fccs.ddns.net:19906/5fe6d4f10006c6ec8ca1df2d4bd07a2d
-#EXTINF:-1 tvg-id="日本一本道" tvg-name="日本一本道" tvg-logo="" group-title="🌲松视CR",日本一本道
-p3p://fccs.ddns.net:19906/5fe6d4d8000a01508ca17e596611121f
-#EXTINF:-1 tvg-id="日本加勒比" tvg-name="日本加勒比" tvg-logo="" group-title="🌲松视CR",日本加勒比
-p3p://fccs.ddns.net:19906/5fe6d4c0000ea3178ca121c83d4b0a39
-#EXTINF:-1 tvg-id="日本CATWALK POISON" tvg-name="日本CATWALK POISON" tvg-logo="" group-title="🌲松视CR",日本CATWALK POISON
-p3p://fccs.ddns.net:19906/5fe7fe14000bbbb1912a91354e4b5706
-#EXTINF:-1 tvg-id="日本PPV-1" tvg-name="日本PPV-1" tvg-logo="" group-title="🌲松视CR",日本PPV-1
-p3p://fccs.ddns.net:19906/5fed5578000e28fba6077f774fba6950
-#EXTINF:-1 tvg-id="日本J-Girl" tvg-name="日本J-Girl" tvg-logo="" group-title="🌲松视CR",日本J-Girl
-p3p://fccs.ddns.net:19906/5fe6d5ab000d6dc38ca4b77276be2f75
-#EXTINF:-1 tvg-id="上原亚衣" tvg-name="上原亚衣" tvg-logo="" group-title="🌲松视CR",上原亚衣
-p3p://fccs.ddns.net:19906/5fed670a00074c56a64c200b26e62c10
-#EXTINF:-1 tvg-id="苍井空" tvg-name="苍井空" tvg-logo="" group-title="🌲松视CR",苍井空
-p3p://fccs.ddns.net:19906/5fea6483000512cf9a8a401a24db1f4e
-#EXTINF:-1 tvg-id="波多野结衣" tvg-name="波多野结衣" tvg-logo="" group-title="🌲松视CR",波多野结衣
-p3p://fccs.ddns.net:19906/5fe6d96b000d95298cb35d8161902e91
-#EXTINF:-1 tvg-id="古川伊织" tvg-name="古川伊织" tvg-logo="" group-title="🌲松视CR",古川伊织
-p3p://fccs.ddns.net:19906/5ff7430900000f8fcccf091c30805ccb
-#EXTINF:-1 tvg-id="SexART" tvg-name="SexART" tvg-logo="" group-title="🌲松视CR",SexART
-p3p://fccs.ddns.net:19906/607e1f9f0004af8edb961118303e4935.ts
-#EXTINF:-1 tvg-id="Blacked HD" tvg-name="Blacked HD" tvg-logo="" group-title="🌲松视CR",Blacked HD
-p3p://fccs.ddns.net:19906/6403cc0d0000f97a400e5a9115f012f3
-#EXTINF:-1 tvg-id="黑人系列" tvg-name="黑人系列" tvg-logo="" group-title="🌲松视CR",黑人系列
-p3p://fccs.ddns.net:19906/5fedfa1c00068347a88a9e1b1b517e42
-#EXTINF:-1 tvg-id="欧美OFFICE" tvg-name="欧美OFFICE" tvg-logo="" group-title="🌲松视CR",欧美OFFICE
-p3p://fccs.ddns.net:19906/6403cb9f0003a839400cad904b301253
-#EXTINF:-1 tvg-id="中字有码1" tvg-name="中字有码1" tvg-logo="" group-title="🌲松视CR",中字有码1
-p3p://fccs.ddns.net:19906/5fe790790005783d8f7e6a1d2f8774e6
-#EXTINF:-1 tvg-id="中字有码2" tvg-name="中字有码2" tvg-logo="" group-title="🌲松视CR",中字有码2
-p3p://fccs.ddns.net:19906/5fea645500007b7e9a898b3d6ea244cf
-#EXTINF:-1 tvg-id="中文有码3" tvg-name="中文有码3" tvg-logo="" group-title="🌲松视CR",中文有码3
-p3p://fccs.ddns.net:19906/5ff70064000178a1cbcab4ef4f5f0bd9
-#EXTINF:-1 tvg-id="Heyzo无码" tvg-name="Heyzo无码" tvg-logo="" group-title="🌲松视CR",Heyzo无码
-p3p://fccs.ddns.net:19906/5fe8014b0007228691371ed44a517e44
-#EXTINF:-1 tvg-id="人妻斩" tvg-name="人妻斩" tvg-logo="" group-title="🌲松视CR",人妻斩
-p3p://fccs.ddns.net:19906/5fe7fd63000e253a9127de6a777d49b4
-#EXTINF:-1 tvg-id="人妻熟女" tvg-name="人妻熟女" tvg-logo="" group-title="🌲松视CR",人妻熟女
-p3p://fccs.ddns.net:19906/5fe8019000071e4f91382c5b7fef4506
-#EXTINF:-1 tvg-id="天台素人约啪" tvg-name="天台素人约啪" tvg-logo="" group-title="🌲松视CR",天台素人约啪
-p3p://fccs.ddns.net:19906/5fea646c000b95d79a89e7ed2c483b7a
-#EXTINF:-1 tvg-id="日本VR精品" tvg-name="日本VR精品" tvg-logo="" group-title="🌲松视CR",日本VR精品
-p3p://fccs.ddns.net:19906/5fea649900057d369a8a9626665058f0
-#EXTINF:-1 tvg-id="日本素人" tvg-name="日本素人" tvg-logo="" group-title="🌲松视CR",日本素人
-p3p://fccs.ddns.net:19906/5fe6d51e0009f6db8ca28fc66a750553
-#EXTINF:-1 tvg-id="日本素人2" tvg-name="日本素人2" tvg-logo="" group-title="🌲松视CR",日本素人2
-p3p://fccs.ddns.net:19906/5fe7ff6e0001271f912fd60179236471
-#EXTINF:-1 tvg-id="日本无码破解" tvg-name="日本无码破解" tvg-logo="" group-title="🌲松视CR",日本无码破解
-p3p://fccs.ddns.net:19906/5fef580000022fb6ade15fa160a61ae1
-#EXTINF:-1 tvg-id="日本强奸迷奸无码" tvg-name="日本强奸迷奸无码" tvg-logo="" group-title="🌲松视CR",日本强奸迷奸无码
-p3p://fccs.ddns.net:19906/5ff201c40003b7e3b8481485121959a6
-#EXTINF:-1 tvg-id="日本情色动漫1" tvg-name="日本情色动漫1" tvg-logo="" group-title="🌲松视CR",日本情色动漫1
-p3p://fccs.ddns.net:19906/5ff742d8000bbabbccce4cb0100a31ff
-#EXTINF:-1 tvg-id="奥体金丝雀" tvg-name="奥体金丝雀" tvg-logo="" group-title="🌲松视CR",奥体金丝雀
-p3p://fccs.ddns.net:19906/5febb68d000c74979fb2b90c461f0bfb
-#EXTINF:-1 tvg-id="韩国演艺圈潜规则" tvg-name="韩国演艺圈潜规则" tvg-logo="" group-title="🌲松视CR",韩国演艺圈潜规则
-p3p://fccs.ddns.net:19906/5fe6d643000a32ae8ca7085f68304b38
-#EXTINF:-1 tvg-id="麻豆大番" tvg-name="麻豆大番" tvg-logo="" group-title="🌲松视CR",麻豆大番
-p3p://fccs.ddns.net:19906/5fee099a000e4a8da8c7244c6ff632e3
-#EXTINF:-1 tvg-id="麻豆导演" tvg-name="麻豆导演" tvg-logo="" group-title="🌲松视CR",麻豆导演
-p3p://fccs.ddns.net:19906/5fee723900074e31aa5fcfa0561f1b95
-#EXTINF:-1 tvg-id="麻豆外番" tvg-name="麻豆外番" tvg-logo="" group-title="🌲松视CR",麻豆外番
-p3p://fccs.ddns.net:19906/5fee86ee0006ce80aab0b2811d842258
-#EXTINF:-1 tvg-id="麻豆台湾" tvg-name="麻豆台湾" tvg-logo="" group-title="🌲松视CR",麻豆台湾
-p3p://fccs.ddns.net:19906/5fef5ed40002a464adfc0be76180670f
-#EXTINF:-1 tvg-id="麻豆天美传媒" tvg-name="麻豆天美传媒" tvg-logo="" group-title="🌲松视CR",麻豆天美传媒
-p3p://fccs.ddns.net:19906/61bff85e00029535c4bd1c4f47fb5400
-#EXTINF:-1 tvg-id="果冻传媒" tvg-name="果冻传媒" tvg-logo="" group-title="🌲松视CR",果冻传媒
-p3p://fccs.ddns.net:19906/5ff5420900039286c4fb220f4b133915
-#EXTINF:-1 tvg-id="精东影业" tvg-name="精东影业" tvg-logo="" group-title="🌲松视CR",精东影业
-p3p://fccs.ddns.net:19906/6135966100022f18a83512374f864fd8
-#EXTINF:-1 tvg-id="利哥探花 1" tvg-name="利哥探花 1" tvg-logo="" group-title="🌲松视CR",利哥探花 1
-p3p://fccs.ddns.net:19906/61b4e9970009588e998c4b9532e01f5f
-#EXTINF:-1 tvg-id="利哥探花 2" tvg-name="利哥探花 2" tvg-logo="" group-title="🌲松视CR",利哥探花 2
-p3p://fccs.ddns.net:19906/64ebf4ae0000f1c2cae8c73738a337d4
-#EXTINF:-1 tvg-id="大神猫先生" tvg-name="大神猫先生" tvg-logo="" group-title="🌲松视CR",大神猫先生
-p3p://fccs.ddns.net:19906/5fed7efe000093e8a6a9af6f691c7583
-#EXTINF:-1 tvg-id="91沈先生" tvg-name="91沈先生" tvg-logo="" group-title="🌲松视CR",91沈先生
-p3p://fccs.ddns.net:19906/5fee5d4500060214aa0df631581d3164
-#EXTINF:-1 tvg-id="鸭总探花" tvg-name="鸭总探花" tvg-logo="" group-title="🌲松视CR",鸭总探花
-p3p://fccs.ddns.net:19906/5fee5d6300022e98aa0e6a660e9f6d9f
-#EXTINF:-1 tvg-id="极限电影台" tvg-name="极限电影台" tvg-logo="" group-title="🌲松视夜色",极限电影台
-p3p://94.130.51.14:19906/6109e9bb0005fd87fd9ce5ea2c1f18d3
-#EXTINF:-1 tvg-id="松视1" tvg-name="松视1" tvg-logo="" group-title="🌲松视夜色",松视1
-p3p://94.130.51.14:19906/5fe445280008a40682a0367c343436bb
-#EXTINF:-1 tvg-id="松视2" tvg-name="松视2" tvg-logo="" group-title="🌲松视夜色",松视2
-p3p://94.130.51.14:19906/60232b5f00007bc37850649979e379df.ts
-#EXTINF:-1 tvg-id="松视3" tvg-name="松视3" tvg-logo="" group-title="🌲松视夜色",松视3
-p3p://94.130.51.14:19906/6109e9590001f40bfd9b661109395f3b
-#EXTINF:-1 tvg-id="香蕉台" tvg-name="香蕉台" tvg-logo="" group-title="🌲松视夜色",香蕉台
-p3p://94.130.51.14:19906/60626a760005067e6f5bbecb5816771e
-#EXTINF:-1 tvg-id="潘朵啦" tvg-name="潘朵啦" tvg-logo="" group-title="🌲松视夜色",潘朵啦
-p3p://94.130.51.14:19906/5fe4450c000c918b829fca233c845311
-#EXTINF:-1 tvg-id="惊艳台" tvg-name="惊艳台" tvg-logo="" group-title="🌲松视夜色",惊艳台
-p3p://94.130.51.14:19906/60626a1b00010e3e6f5a5a4f018e5ebe
-#EXTINF:-1 tvg-id="彩虹E" tvg-name="彩虹E" tvg-logo="" group-title="🌲松视夜色",彩虹E
-p3p://94.130.51.14:19906/6062716c0008efc86f76f0c44d55329f
-#EXTINF:-1 tvg-id="彩虹K" tvg-name="彩虹K" tvg-logo="" group-title="🌲松视夜色",彩虹K
-p3p://94.130.51.14:19906/63fd56ec000b5f0d26d4fe1b07963493
-#EXTINF:-1 tvg-id="彩虹电影" tvg-name="彩虹电影" tvg-logo="" group-title="🌲松视夜色",彩虹电影
-p3p://94.130.51.14:19906/6253066c00049259f74b05224cf375e6
-#EXTINF:-1 tvg-id="HAPPY" tvg-name="HAPPY" tvg-logo="" group-title="🌲松视夜色",HAPPY
-p3p://94.130.51.14:19906/616b79be000a35b17ab2f7b84c325eeb
-#EXTINF:-1 tvg-id="一本道" tvg-name="一本道" tvg-logo="" group-title="🌲松视夜色",一本道
-p3p://94.130.51.14:19906/5fe6d4d8000a01508ca17e596611121f
-#EXTINF:-1 tvg-id="加勒比" tvg-name="加勒比" tvg-logo="" group-title="🌲松视夜色",加勒比
-p3p://94.130.51.14:19906/5fe6d4c0000ea3178ca121c83d4b0a39
-#EXTINF:-1 tvg-id="东京热" tvg-name="东京热" tvg-logo="" group-title="🌲松视夜色",东京热
-p3p://94.130.51.14:19906/5fe6d4f10006c6ec8ca1df2d4bd07a2d
-#EXTINF:-1 tvg-id="麻豆" tvg-name="麻豆" tvg-logo="" group-title="🌲松视夜色",麻豆
-p3p://94.130.51.14:19906/606271190002a1266f75aaee0463186a
-#EXTINF:-1 tvg-id="CATWALK" tvg-name="CATWALK" tvg-logo="" group-title="🌲松视夜色",CATWALK
-p3p://94.130.51.14:19906/5fe7fe14000bbbb1912a91354e4b5706
-#EXTINF:-1 tvg-id="人妻斩" tvg-name="人妻斩" tvg-logo="" group-title="🌲松视夜色",人妻斩
-p3p://94.130.51.14:19906/5fe7fd63000e253a9127de6a777d49b4
-#EXTINF:-1 tvg-id="エッチな4610" tvg-name="エッチな4610" tvg-logo="" group-title="🌲松视夜色",エッチな4610
-p3p://94.130.51.14:19906/5fe7ff6e0001271f912fd60179236471
-#EXTINF:-1 tvg-id="FC2PPV" tvg-name="FC2PPV" tvg-logo="" group-title="🌲松视夜色",FC2PPV
-p3p://94.130.51.14:19906/5fed5578000e28fba6077f774fba6950
-#EXTINF:-1 tvg-id="天然むすめ" tvg-name="天然むすめ" tvg-logo="" group-title="🌲松视夜色",天然むすめ
-p3p://94.130.51.14:19906/5fe6d51e0009f6db8ca28fc66a750553
-#EXTINF:-1 tvg-id="熟女俱乐部" tvg-name="熟女俱乐部" tvg-logo="" group-title="🌲松视夜色",熟女俱乐部
-p3p://94.130.51.14:19906/5fe6d5ab000d6dc38ca4b77276be2f75
-#EXTINF:-1 tvg-id="人妻熟女" tvg-name="人妻熟女" tvg-logo="" group-title="🌲松视夜色",人妻熟女
-p3p://94.130.51.14:19906/5fe8019000071e4f91382c5b7fef4506
-#EXTINF:-1 tvg-id="XXXAV" tvg-name="XXXAV" tvg-logo="" group-title="🌲松视夜色",XXXAV
-p3p://94.130.51.14:19906/5fe80214000d2ec8913a3189085b6434
-#EXTINF:-1 tvg-id="Leo TV" tvg-name="Leo TV" tvg-logo="" group-title="🌲松视夜色",Leo TV
-p3p://94.130.51.14:19906/63fd589300099ff426db7203798a21f9
-#EXTINF:-1 tvg-id="天美传媒" tvg-name="天美传媒" tvg-logo="" group-title="🌲松视夜色",天美传媒
-p3p://94.130.51.14:19906/61bff85e00029535c4bd1c4f47fb5400
-#EXTINF:-1 tvg-id="麻豆大番" tvg-name="麻豆大番" tvg-logo="" group-title="🌲松视夜色",麻豆大番
-p3p://94.130.51.14:19906/5fee099a000e4a8da8c7244c6ff632e3
-#EXTINF:-1 tvg-id="麻豆导演" tvg-name="麻豆导演" tvg-logo="" group-title="🌲松视夜色",麻豆导演
-p3p://94.130.51.14:19906/5fee723900074e31aa5fcfa0561f1b95
-#EXTINF:-1 tvg-id="麻豆台湾" tvg-name="麻豆台湾" tvg-logo="" group-title="🌲松视夜色",麻豆台湾
-p3p://94.130.51.14:19906/5fef5ed40002a464adfc0be76180670f
 #EXTINF:-1 tvg-id="Pigoo HD" tvg-name="Pigoo HD" tvg-logo="" group-title="🌲松视夜色",Pigoo HD
 https://nl.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 tvg-id="松視1台" tvg-name="松視1台" tvg-logo="" group-title="🌲松视TS",松視1台
@@ -379,6 +215,338 @@ http://u.vipl.one/high/ierw63qgf1/1721.m3u8
 http://u.vipl.one/high/ierw63qgf1/1722.m3u8
 #EXTINF:-1 tvg-id="EroLuxe Asian" tvg-name="EroLuxe Asian" tvg-logo="" group-title="🔞EroLuxe",EroLuxe Asian
 http://u.vipl.one/high/ierw63qgf1/1723.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: HUSTLER HD
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77737
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: BLUE HUSTLER
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77738
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: VIVID RED HD
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77739
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: DORCEL TV
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77740
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: DORCEL XXX
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77741
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: BABES TV
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77742
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: RUSSIAN NIGHT
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77743
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: XY MAX
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77744
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MCTV ANAL
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77745
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MCTV ASIAN
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77746
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MCTV BIG ASS
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77747
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MCTV BIG DICK
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77748
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MCTV BIG TITS
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77749
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MCTV BLOWJOB
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77751
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MCTV BRUNETTE
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77752
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MCTV COMPILATION
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77753
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MCTV CUCKOLD
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77754
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MCTV GANGBANG
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77756
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MCTV HARDCORE
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77758
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MCTV INTERRACIAL
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77759
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MCTV LESBIAN
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77761
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MCTV LIVE CAMS
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77762
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MCTV PORNSTAR
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77764
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MCTV ROUGH
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77766
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MCTV RUSSIAN
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77767
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MCTV TEEN
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77768
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MCTV THREESOME
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77769
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MCTV WOMAN
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77770
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: EXTASY - LEO TV
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77771
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: DAY WITH A PORNSTAR
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77772
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: DDF NETWORK
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77773
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: DAUGHTER SWAP
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77774
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: TRUE AMATEURS
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77775
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: PUBLIC AGENT
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77776
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: FAMILY STROKES
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77778
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: FAKE TAXI
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77779
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: LITTLE CAPRICE
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77780
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MIA KHALIFA
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77781
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: ALBA 2
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77782
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: ALBA XXX 2
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77783
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: ALBA XXX 3
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77784
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: ALBA XXX 6
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77786
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: ALBA XXX HD2
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77787
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: BANGBROS
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77788
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: BLACKED
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77789
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: BLUE HUSTLER
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77790
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: BRAZZERS
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77791
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: DORCEL
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77792
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: ERO X
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77793
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: GAY ADULT TV
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77797
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: FRENCH LOVER EUROPE
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77798
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: GAY MAX HD
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77799
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MY PERVY FAMILY
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77800
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: NEO GAY 1
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77801
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: PINK EROTIC 3
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77803
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: PRIVATE
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77804
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: PRIVE TV
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77805
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDLIGHT
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77807
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: SECRET CIRCLE TV
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77808
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: SEXTO SENSO
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77809
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: TABOO
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77810
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: 21 SEXTURY
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77812
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: CUM 4K UHD
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77813
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDLIGHT HD
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77814
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: PENTHOUSE QUICKIES
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77815
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: PENTHOUSE GOLD
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77816
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: XY PLUS
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77818
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: ALBA XXX 5
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77819
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: PENTHOUSE PASSION
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77820
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MIAMI TV JENNY LIVE [NOT 24/7]
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77824
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: CUM 4K UHD
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77825
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: DAUGHTER SWAP
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77826
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: DAY WITH A PORNSTAR
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77827
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: FAKE AGENT
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77828
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: FAKE TAXI
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77829
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: FAMILY HOOKUPS
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77830
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: FAMILY STROKES
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77831
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: GAY MAX HD
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77832
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: HUSTLER HD
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77833
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: LITTLE CAPRICE
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77834
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MIA KHALIFA
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77835
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MY PERVY FAMILY
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77836
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: NEO GAY 1
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77837
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: PUBLIC AGENT
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77838
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: ALBA XXX 1
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77839
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: ALBA XXX 5
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77841
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: ALBA XXX HD1
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77842
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: BANGBROS
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77843
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: BLACKED
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77844
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: BLUE HUSTLER
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77845
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: BRAZZERS
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77846
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: ALBA XXX 1
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77847
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: ALBA XXX 5
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77849
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: BANGBROS
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77851
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: BLACKED
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77852
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: BLUE HUSTLER
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77853
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: BRAZZERS
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77854
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: CUM 4K UHD
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77855
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: DAUGHTER SWAP
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77856
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: DAY WITH A PORNSTAR
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77857
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: DDF NETWORK
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77858
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: FAKE AGENT
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77859
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: FAKE TAXI
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77860
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: FAMILY HOOKUPS
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77861
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: FAMILY STROKES
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77862
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: GAY MAX HD
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77863
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: HUSTLER HD
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77864
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: LITTLE CAPRICE
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77865
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MIA KHALIFA
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77866
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: MY PERVY FAMILY
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77867
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: NEO GAY 1
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77868
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: PUBLIC AGENT
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77869
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: TRUE AMATEURS
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77870
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 1
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77871
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 2
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77872
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 3
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77873
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 4
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77874
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 5
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77875
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 6
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77876
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 7
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77877
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 8
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77878
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 9
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77879
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 11
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77880
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 12
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77881
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 13
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77882
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 14
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77883
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 15
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77884
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 16
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77885
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 17
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77886
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 18
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77887
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 19
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77888
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 20
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77889
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 21
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77890
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 22
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77891
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 23
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77892
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 24
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77893
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 25
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77894
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 26
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77895
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 27
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77896
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 28
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77897
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 29
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77898
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 30
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77899
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 31
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77900
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 32
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77901
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 33
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77902
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 34
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77903
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 35
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77904
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 36
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77905
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 37
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77906
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 38
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77907
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 39
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77908
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX: REDBOX ADULTS 40
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77909
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX:  ERO XXX HD
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77910
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX:  XY MIX
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77911
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX:   BEATE UHSE.TV
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77913
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX:  ALBA XXX 1
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77914
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX:  ALBA XXX HD1
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77915
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX:  HOT FHD
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77916
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX:  O LA LA
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77917
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX:  PLAYBOY
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77920
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX:  SEXY HOT
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77921
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX:  VENUS
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77922
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX:  MEIDEN VAN HOLLAND HARD
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77925
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX:  CENTO X CENTO TV
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77926
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX 18+", XXX:  TINY 4K UHD
+http://zk85.hofcepesp1.top:8080/es5341763124425372/f21f430f3630/77927
+
 #EXTINF:-1 tvg-id="X4 | Adriana Chechik" tvg-name="X4 | Adriana Chechik" tvg-logo="" group-title="🔞X4 » ADULTS",X4 | Adriana Chechik
 http://powerpit.live:8080/4ahNfwskkD/3aFzjgTd5v/830866
 #EXTINF:-1 tvg-id="X4 | Aeries Steele" tvg-name="X4 | Aeries Steele" tvg-logo="" group-title="🔞X4 » ADULTS",X4 | Aeries Steele
