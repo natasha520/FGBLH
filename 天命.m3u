@@ -113,6 +113,7 @@ p3p://fccs.ddns.net:19906/5fed7efe000093e8a6a9af6f691c7583
 p3p://fccs.ddns.net:19906/5fee5d4500060214aa0df631581d3164
 #EXTINF:-1 group-title="🌲松视CR",鸭总探花
 p3p://fccs.ddns.net:19906/5fee5d6300022e98aa0e6a660e9f6d9f
+
 #EXTINF:-1 group-title="🌲松视夜色",极限电影台
 p3p://94.130.51.14:19906/6109e9bb0005fd87fd9ce5ea2c1f18d3
 #EXTINF:-1 group-title="🌲松视夜色",松视1
@@ -171,6 +172,29 @@ p3p://94.130.51.14:19906/5fee723900074e31aa5fcfa0561f1b95
 p3p://94.130.51.14:19906/5fef5ed40002a464adfc0be76180670f
 #EXTINF:-1 group-title="🌲松视夜色",Pigoo HD
 https://nl.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 tvg-id="花花公子" tvg-name="花花公子" tvg-logo="" group-title="🌲松视夜色",花花公子
+http://LMTV.me:80/1662465746dio/612628/90206
+#EXTINF:-1 tvg-id="HustlerHD" tvg-name="HustlerHD" tvg-logo="" group-title="🌲松视夜色",HustlerHD
+http://88b9da48.kazmazpaz.ru:80/iptv/MVTMCC4UTAZVDT/244/manifest.m3u8
+#EXTINF:-1 tvg-id="Leo HD" tvg-name="Leo HD" tvg-logo="" group-title="🌲松视夜色",Leo HD
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="EroxHD" tvg-name="EroxHD" tvg-logo="" group-title="🌲松视夜色",EroxHD
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Eroxxx" tvg-name="Eroxxx" tvg-logo="" group-title="🌲松视夜色",Eroxxx
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Extasy" tvg-name="Extasy" tvg-logo="" group-title="🌲松视夜色",Extasy
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Desire" tvg-name="Desire" tvg-logo="" group-title="🌲松视夜色",Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Dorcel" tvg-name="Dorcel" tvg-logo="" group-title="🌲松视夜色",Dorcel
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Brazzers HD" tvg-name="Brazzers HD" tvg-logo="" group-title="🌲松视夜色",Brazzers HD
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Hustsler HD" tvg-name="Hustsler HD" tvg-logo="" group-title="🌲松视夜色",Hustsler HD
+http://88.212.7.11/live/test_hustsler_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="realitykings" tvg-name="realitykings" tvg-logo="" group-title="🌲松视夜色",realitykings
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+
 #EXTINF:-1 group-title="🌲松视TS",松視1台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 #EXTINF:-1 group-title="🌲松视TS",松視1台
