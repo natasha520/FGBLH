@@ -267,8 +267,32 @@ https://t.freetv.fun/live/cai-hong.ts
 https://t.freetv.fun/live/pan-duo-la-1.ts
 #EXTINF:-1 group-title="🌲松视TS",潘朵啦
 https://t.freetv.fun/live/pan-duo-la-3.ts
+#EXTINF:-1 group-title="🌲松视TS",奧視1台
+奧視,http://125.227.210.55:1022/VideoInput/play.ts
 #EXTINF:-1 group-title="🌲松视TS",奧視2台
-http://125.227.210.55:1022/VideoInput/play.ts
+http://125.227.210.55:3031/VideoInput/play.ts
+#EXTINF:-1 group-title="🌲松视TS",HustlerHD
+http://88b9da48.kazmazpaz.ru:80/iptv/MVTMCC4UTAZVDT/244/manifest.m3u8
+#EXTINF:-1 group-title="🌲松视TS",花花公子EroxHD
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="🌲松视TS",Leo HD
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="🌲松视TS",Brazzers HD
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="🌲松视TS",Hustsler HD
+http://88.212.7.11/live/test_hustsler_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="🌲松视TS",Eroxxx
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="🌲松视TS",Extasy
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="🌲松视TS",Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="🌲松视TS",Dorcel
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="🌲松视TS",Realitykings
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+
+
 
 
 
