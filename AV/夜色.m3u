@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="🌲松视系列",俄罗斯极限电影台
+http://ef90a6cd.rossteleccom.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/14158/index.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="极限电影台" tvg-logo="" group-title="🌲松视系列",极限电影台
 http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c855fdf/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="松视1" tvg-logo="" group-title="🌲松视系列",松视1
@@ -46,8 +47,7 @@ http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/984
 http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/456oinav/index.m3u8
 
 
-#EXTINF:-1 group-title="🌲松视TS",俄罗斯极限电影台
-http://ef90a6cd.rossteleccom.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/14158/index.m3u8
+
 #EXTINF:-1 group-title="🌲松视TS",松視1*1线
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 #EXTINF:-1 group-title="🌲松视TS",松視1*2线
@@ -82,7 +82,7 @@ http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
 https://stream1.freetv.fun/58de13dd44637831a30fd05decc775f0648b376c707586e3dcbe7da08a87ea53.ctv
 
 #EXTINF:-1 group-title="🌲松视TS",奧視1台
-,http://125.227.210.55:1022/VideoInput/play.ts
+http://125.227.210.55:1022/VideoInput/play.ts
 #EXTINF:-1 group-title="🌲松视TS",奧視台
 http://125.227.210.55:3031/VideoInput/play.ts
 #EXTINF:-1 group-title="🌲松视TS",HustlerHD
