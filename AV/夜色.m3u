@@ -83,7 +83,7 @@ https://stream1.freetv.fun/58de13dd44637831a30fd05decc775f0648b376c707586e3dcbe7
 
 #EXTINF:-1 group-title="🌲松视TS",奧視1台
 http://125.227.210.55:1022/VideoInput/play.ts
-#EXTINF:-1 group-title="🌲松视TS",奧視台
+#EXTINF:-1 group-title="🌲松视TS",奧視2台
 http://125.227.210.55:3031/VideoInput/play.ts
 #EXTINF:-1 group-title="🌲松视TS",HustlerHD
 http://88b9da48.kazmazpaz.ru:80/iptv/MVTMCC4UTAZVDT/244/manifest.m3u8
